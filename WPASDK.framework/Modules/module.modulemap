@@ -1,0 +1,6 @@
+framework module WPASDK {
+  umbrella header "WPASDK.h"
+
+  export *
+  module * { export * }
+}
